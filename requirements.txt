@@ -1,3 +1,9 @@
+# AI Text Generation
 google-generativeai
-requests
 python-dotenv
+requests
+
+# Audio & Voiceover (Kokoro TTS)
+soundfile
+torch
+kokoro
